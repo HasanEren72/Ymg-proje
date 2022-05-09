@@ -1,0 +1,2 @@
+# YMG-proje-deposu
+jahdbghewjsdgnbksjfsnbvlj

@@ -12,6 +12,3 @@ Hasan Eren
 Haşim mut
 Fırat geçgil 
 ---
-# USE CASE Diyagramı
-![OTOBÜS SATIS DİAGRAMI](Drawing3.png "OTOBÜS SATIS DİAGRAMI")
----

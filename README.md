@@ -11,5 +11,5 @@ bu proje katkı sağlayanlar;
 Hasan Eren
 Haşim mut
 Fırat geçgil 
-# dsjxfngjxd
+
 
